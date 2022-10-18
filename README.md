@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 </br>
 <a href="https://instagram.com/clout_kitten">Instagram<img alt="Insta link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631" height="50" width="50"></a>
 
-* I wil be highly delighted if you go through my elegant projects.
+* I will be highly delighted if you go through my elegant projects.
