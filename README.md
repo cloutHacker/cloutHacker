@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/clout_kitten">Instagram<img alt="Insta link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631" height="50" width="50"></a>
 
 * I will be highly delighted if you go through my elegant projects.
+* ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=cloutHacker&show_icons=true&title_color=aqua&icon_color=79ff97&text_color=green&bg_color=151515)
 # * visitor count.
 
 ![Visitor Count](https://profile-counter.glitch.me/cloutHacker/count.svg)
