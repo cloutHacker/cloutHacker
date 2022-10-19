@@ -14,7 +14,10 @@ I’m currently learning node js and currently working on a react projects and u
  
  </div>
  
+ [![activity graph](https://activity-graph.herokuapp.com/graph?username=cloutHacker&theme=react-dark)](https://github.com/cloutHacker/github-readme-activity-graph)
+ 
 * visitor count.
+
 
 ![Visitor Count](https://profile-counter.glitch.me/cloutHacker/count.svg)
 
