@@ -17,22 +17,21 @@ I’m currently learning node js and currently working on a react projects and u
  <div style="display:flex;flex-direction:row;">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=cloutHacker&show_icons=true&title_color=aqua&icon_color=79ff97&text_color=green&bg_color=151515&theme=tokyonight" alt="clout hacker profile" width="45%">
  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=cloutHacker&repo=cloutHacker&theme=tokyonight" alt="my stats" width="45%" height="100%">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloutHacker&layout=compact&theme=tokyonight" alt="cloutHacker" /></p>
- 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloutHacker&layout=compact&theme=tokyonight" alt="cloutHacker" width="45%/>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cloutHacker&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
  </div>
  
  [![activity graph](https://activity-graph.herokuapp.com/graph?username=cloutHacker&theme=react-dark)](https://github.com/cloutHacker/github-readme-activity-graph)
  
+<div style="display:flex;flex-direction:row;">
 * visitor count.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/cloutHacker/count.svg)
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cloutHacker&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
-
-<br />
-
 ### Languages and Tools:
+
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"     width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"             alt="css3" width="40" height="40"/> </a>
@@ -48,5 +47,13 @@ I’m currently learning node js and currently working on a react projects and u
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>  
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
+</div>
+
+
+
+<br />
+
+
+
 - 📫 How to reach me: <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="59" height="59">
 - <a href="https://instagram.com/clout_kitten">Instagram<img alt="Insta link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631" height="50" width="50"></a>
