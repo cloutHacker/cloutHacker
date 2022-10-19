@@ -21,6 +21,7 @@ I’m currently learning node js and currently working on a react projects and u
 
 ![Visitor Count](https://profile-counter.glitch.me/cloutHacker/count.svg)
 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cloutHacker&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 
 <br />
 
