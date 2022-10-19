@@ -1,6 +1,13 @@
 # Hi there am Derick👋
 I’m currently working on php and developing light weight programes.
 I’m currently learning node js and currently working on a react projects and updating the elegant repos.
+## My stacks
+### Frontend:  html | js| css | reactjs| scss | bootstrap
+
+### Backend:  php | nodejs | mysql | JWT auth
+
+### others:  bash | batch | flutter | git
+
 
 </br>
 
