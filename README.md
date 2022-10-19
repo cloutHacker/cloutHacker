@@ -7,14 +7,19 @@ I’m currently learning node js and currently working on a react projects and u
 
 
 * I will be highly delighted if you go through my elegant projects.
-* ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=cloutHacker&show_icons=true&title_color=aqua&icon_color=79ff97&text_color=green&bg_color=151515)
-# * visitor count.
+
+ <div style="display:flex;flex-direction:row;">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=cloutHacker&show_icons=true&title_color=aqua&icon_color=79ff97&text_color=green&bg_color=151515&theme=tokyonight" alt="clout hacker profile" width="45%">
+ <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=cloutHacker&repo=cloutHacker&theme=tokyonight" alt="my stats" width="45%" height="100%">
+ </div>
+ 
+* visitor count.
 
 ![Visitor Count](https://profile-counter.glitch.me/cloutHacker/count.svg)
 
-<p><a href="#" target="_blank"><img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=cloutHacker&repo=cloutHacker&theme=tokyonight" alt="Clouthacker stats
- " /></a></p>
+
 <br />
+
 ### Languages and Tools:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"     width="40" height="40"/></a>
