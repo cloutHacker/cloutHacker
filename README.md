@@ -1,5 +1,4 @@
 # Hi there am Derick👋
-
 I’m currently working on php and developing light weight programes.
 I’m currently learning node js and currently working on a react projects and updating the elegant repos.
 
@@ -11,6 +10,8 @@ I’m currently learning node js and currently working on a react projects and u
  <div style="display:flex;flex-direction:row;">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=cloutHacker&show_icons=true&title_color=aqua&icon_color=79ff97&text_color=green&bg_color=151515&theme=tokyonight" alt="clout hacker profile" width="45%">
  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=cloutHacker&repo=cloutHacker&theme=tokyonight" alt="my stats" width="45%" height="100%">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloutHacker&layout=compact&theme=tokyonight" alt="cloutHacker" /></p>
+ 
  </div>
  
 * visitor count.
