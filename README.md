@@ -19,10 +19,13 @@ I’m currently learning node js and currently working on a react projects and u
  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=cloutHacker&repo=cloutHacker&theme=tokyonight" alt="my stats" width="45%" height="100%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloutHacker&layout=compact&theme=tokyonight" alt="cloutHacker" width="45%/>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cloutHacker&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cloutHacker&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl#streak)](https://git.io/streak-stats)
+                                                                                                                                               
+    img[src*="streak"] {
+      width:45%;                 
+    }
+                     
  </div>
- 
- [![activity graph](https://activity-graph.herokuapp.com/graph?username=cloutHacker&theme=react-dark)](https://github.com/cloutHacker/github-readme-activity-graph)
  
 <div style="display:flex;flex-direction:row;">
 * visitor count.
